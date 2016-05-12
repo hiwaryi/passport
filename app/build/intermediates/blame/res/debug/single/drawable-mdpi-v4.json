@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/WarYi/Desktop/development-master-samples-ToyVpn1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/WarYi/Desktop/development-master-samples-ToyVpn1/app/build/intermediates/exploded-aar/development-master-samples-ToyVpn1/androidTCPSourceApp/unspecified/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/WarYi/passport/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/WarYi/passport/app/build/intermediates/exploded-aar/passport/androidTCPSourceApp/unspecified/res/drawable-mdpi-v4/ic_launcher.png"
+    }
+]

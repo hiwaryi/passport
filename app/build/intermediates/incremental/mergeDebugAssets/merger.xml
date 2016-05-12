@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/WarYi/passport/app/build/intermediates/exploded-aar/passport/androidTCPSourceApp/unspecified/assets"/></dataSet><dataSet config="main"><source path="/Users/WarYi/passport/app/src/main/assets"/><source path="/Users/WarYi/passport/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/WarYi/passport/app/src/debug/assets"/></dataSet></merger>

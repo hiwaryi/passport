@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/WarYi/passport/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/WarYi/passport/app/build/intermediates/exploded-aar/passport/androidTCPSourceApp/unspecified/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 201
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/WarYi/Desktop/development-master-samples-ToyVpn1/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/WarYi/Desktop/development-master-samples-ToyVpn1/app/build/intermediates/exploded-aar/development-master-samples-ToyVpn1/androidTCPSourceApp/unspecified/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 201
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+CHANGED,/Users/WarYi/Desktop/development-master-samples-ToyVpn1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/toyvpn/ToyVpnService$TransportProtocol$override.class
+CHANGED,/Users/WarYi/Desktop/development-master-samples-ToyVpn1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/toyvpn/ToyVpnService$BitUtils$override.class
+CHANGED,/Users/WarYi/Desktop/development-master-samples-ToyVpn1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/WarYi/Desktop/development-master-samples-ToyVpn1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/toyvpn/ToyVpnService$override.class
